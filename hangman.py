@@ -1,4 +1,4 @@
-1. import random
+1. ssimport random
   2. HANGMANPICS = ['''
   3.
   4.   +---+
